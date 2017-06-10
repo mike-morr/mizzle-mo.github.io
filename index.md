@@ -6,7 +6,7 @@ I am a [SharePoint](https://products.office.com/en-us/sharepoint/collaboration) 
 
 Loving F#
 
-```fsharp
+```
 [<Literal>]
 let Three = 3
 
